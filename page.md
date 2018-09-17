@@ -1,3 +1,9 @@
+---
+layout: page
+title: Page
+---
+
+
 # Page 1 of test
 
 1. Bullet1
